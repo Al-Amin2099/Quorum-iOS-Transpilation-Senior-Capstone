@@ -1,0 +1,11 @@
+/Users/bam/.robovm/cache/ios/x86_64/release/Users/bam/Downloads/text-to-speech/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$5.class
+/Users/bam/Downloads/text-to-speech/build/classes/java/main/com/mycompany/myapp/TextToSpeech.class
+/Users/bam/.robovm/cache/ios/x86_64/release/Users/bam/Downloads/text-to-speech/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$2.class
+/Users/bam/.robovm-sdks/robovm-2.3.12/lib/robovm-cocoatouch.jar
+/Users/bam/.robovm/cache/ios/x86_64/release/Users/bam/Downloads/text-to-speech/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$3.class
+/Users/bam/.robovm/cache/ios/x86_64/release/Users/bam/Downloads/text-to-speech/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$1.class
+/Users/bam/Downloads/text-to-speech/build/classes/java/main/com/mycompany/myapp/Main.class
+/Users/bam/.robovm-sdks/robovm-2.3.12/lib/robovm-objc.jar
+/Users/bam/.robovm/cache/ios/x86_64/release/Users/bam/Downloads/text-to-speech/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$4.class
+/Users/bam/.robovm-sdks/robovm-2.3.12/lib/robovm-rt.jar
+/Users/bam/Downloads/text-to-speech/build/classes/java/main/com/mycompany/myapp/MyViewController.class

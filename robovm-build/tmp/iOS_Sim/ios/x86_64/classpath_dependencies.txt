@@ -1,0 +1,12 @@
+/Users/tonyamin/.robovm-sdks/robovm-2.3.12/lib/robovm-rt.jar
+/Users/tonyamin/.robovm-sdks/robovm-2.3.12/lib/robovm-objc.jar
+/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main/com/mycompany/myapp/Main.class
+/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main/com/mycompany/myapp/ButtonSounds.class
+/Users/tonyamin/.robovm/cache/ios/x86_64/release/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$5.class
+/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main/com/mycompany/myapp/TextToSpeech.class
+/Users/tonyamin/.robovm/cache/ios/x86_64/release/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$1.class
+/Users/tonyamin/.robovm/cache/ios/x86_64/release/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$3.class
+/Users/tonyamin/.robovm-sdks/robovm-2.3.12/lib/robovm-cocoatouch.jar
+/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main/com/mycompany/myapp/MyViewController.class
+/Users/tonyamin/.robovm/cache/ios/x86_64/release/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$4.class
+/Users/tonyamin/.robovm/cache/ios/x86_64/release/Users/tonyamin/Desktop/text-to-speech-robovm/build/classes/java/main.generated/com/mycompany/myapp/MyViewController$$Lambda$2.class

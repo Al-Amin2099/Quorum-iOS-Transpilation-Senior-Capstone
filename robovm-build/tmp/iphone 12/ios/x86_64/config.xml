@@ -1,0 +1,26 @@
+<config>
+  <executableName>Main</executableName>
+  <imageName>Main</imageName>
+  <mainClass>com.mycompany.myapp.Main</mainClass>
+  <os>ios</os>
+  <arch>x86_64</arch>
+  <resources>
+    <resource>
+      <directory>/Users/bam/Downloads/text-to-speech/resources</directory>
+    </resource>
+  </resources>
+  <bootclasspath>
+    <classpathentry>/Users/bam/.robovm-sdks/robovm-2.3.12/lib/robovm-rt.jar</classpathentry>
+  </bootclasspath>
+  <classpath>
+    <classpathentry>/Users/bam/Downloads/text-to-speech/build/classes/java/main</classpathentry>
+    <classpathentry>/Users/bam/.robovm-sdks/robovm-2.3.12/lib/robovm-objc.jar</classpathentry>
+    <classpathentry>/Users/bam/.robovm-sdks/robovm-2.3.12/lib/robovm-cocoatouch.jar</classpathentry>
+  </classpath>
+  <target>ios</target>
+  <stripArchives>
+    <exclude>**/*.class</exclude>
+    <include>**/*</include>
+  </stripArchives>
+  <iosInfoPList>/Users/bam/Downloads/text-to-speech/Info.plist.xml</iosInfoPList>
+</config>

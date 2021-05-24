@@ -1,0 +1,9 @@
+Evidence-Based programming is a scholarly project and the Quorum programming language puts it into practice.
+Quorum is a broad, diverse, language with a large standard library, an active and engaged user base, and is
+funded largely by the National Science Foundation. Today, there are several pieces of Quorum under active development,
+including: a new development environment called Quorum Studio that provides new editors for text and gaming,
+set of new library designs spanning a variety of domains (e.g., astronomy, math, gaming, robotics),
+active curricular design efforts with partners (e.g., Code.org), and
+teacher training efforts to help the community use it in the classroom.
+Quorum is modified over time based on rigorous data collection made possible by my students and many other
+excellent research labs across scholarship.
